@@ -1,16 +1,55 @@
 # salon_app
 
-A new Flutter project.
+A new Flutter project for Salon booking
 
-## Getting Started
+-> Tech Stack
+ - Flutter
+ - Dart
+ - PHP
+ - MYSQL
+ 
 
-This project is a starting point for a Flutter application.
+=> Features
+ -> Customer
+   - Login
+   - Register
+   - Forget Password
+   - One time login or register
+   - Email Verification (using email_auth package in flutter)
+   - Register as unknown
+   - List of all available Salons
+   - Search Bar for selecting nearby salons
+   - Booking option
+   - Select type (Haircut, Beard or Haircut and Beard)
+   - Select from available time slots
+   - Make booking
+   - Profile Screen
+   - Change Profile image (choose from camera or gallery)
+   - Check booking (see your booking)
+   - Call to salon owner
+   - Logout
+   
+ -> Salon Owner
+   - Login 
+   - Register as new owner
+   - Check today's booking
+   - Call customer
+   
+ -> Other Features
+   - On start of app, it check's that whether the user is connected to internet or not
+   - Proper closing with willpop scope
+   - Responsive app
+   - Crashing chance almost 0
+   - Developed with zero cost 
+   - On scale it would very cost efficient as only hosting charges will be there and no extra charges
+   - For hosting 000webhost is used
 
-A few resources to get you started if this is your first Flutter project:
+CUSTOMER
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+SALON OWNER
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+COMMON
+
+<img src ='https://user-images.githubusercontent.com/82881082/173580725-b86e24b6-f9d2-4394-b279-acda12e7ecca.gif' height="500">
+
+
