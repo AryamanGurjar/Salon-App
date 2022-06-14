@@ -46,7 +46,16 @@ A new Flutter project for Salon booking
 
 CUSTOMER
 
+<p float="left">
+
+<img src ='https://user-images.githubusercontent.com/82881082/173628290-de1a6d2d-91b3-4300-a2da-c91324627ec6.gif' height="500">
+<img src ='https://user-images.githubusercontent.com/82881082/173625962-1a646f17-d6df-4207-865d-4c1dbbbd207c.gif' height="500">
+<img src ='https://user-images.githubusercontent.com/82881082/173626705-3fed0a07-d4c5-4cf6-858f-9154724d540e.gif' height="500">
+</p>
+
 SALON OWNER
+
+<img src ='https://user-images.githubusercontent.com/82881082/173629276-ef72c8b5-521b-445b-8329-7b0380f967c6.gif' height="500">
 
 COMMON
 
