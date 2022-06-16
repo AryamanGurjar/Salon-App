@@ -10,6 +10,7 @@ A new Flutter project for Salon booking
  
 
 => Features
+ 
  -> Customer
    - Login
    - Register
