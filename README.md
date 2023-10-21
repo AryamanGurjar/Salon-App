@@ -1,4 +1,8 @@
-# salon_app
+
+[![GitHub stars](https://img.shields.io/github/stars/AryamanGurjar/Salon-App.svg?color=ff69b4)](https://github.com/AryamanGurjar/Salon-App/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AryamanGurjar/Salon-App.svg?color=008b8b)](https://github.com/AryamanGurjar/Salon-App/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/AryamanGurjar/Salon-App.svg?color=00bfff)](https://github.com/AryamanGurjar/Salon-App/watchers)
+# Salon App
 
 A new Flutter project for Salon booking
 
