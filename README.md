@@ -2,16 +2,16 @@
 
 A new Flutter project for Salon booking
 
--> Tech Stack
+## Tech Stack
  - Flutter
  - Dart
  - PHP
  - MYSQL
  
 
-=> Features
+## Features
  
- -> Customer
+ ## Customer
    - Login
    - Register
    - Forget Password
@@ -30,13 +30,13 @@ A new Flutter project for Salon booking
    - Call to salon owner
    - Logout
    
- -> Salon Owner
+## Salon Owner
    - Login 
    - Register as new owner
    - Check today's booking
    - Call customer
    
- -> Other Features
+## Other Features
    - On start of app, it check's that whether the user is connected to internet or not
    - Proper closing with willpop scope
    - Responsive app
